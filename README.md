@@ -1,4 +1,5 @@
-![logo]([https://github.com/Ishan9100/Ishan9100/blob/main/Github_banner.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdanieldiosi.com%2Fblog%2Fpage%2F2%2F%3Foffset%3D1585221256217&psig=AOvVaw32O2vjK-55bVt4NmhRv93h&ust=1708755852062000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiLy5q6wYQDFQAAAAAdAAAAABAS))
+![logo](https://github.com/harshalsawant29/harshalsawant29/blob/main/banner.gif)
+
 <h1 align="center">Hi 👋, I'm Harshal</h1>
 <h3 align="center">A data enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
