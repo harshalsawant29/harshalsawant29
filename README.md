@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshal</h1>
-<h3 align="center">A data enthusiast</h3>
+<h3 align="center">A Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
--📫 How to reach me **hsawant1@hawk.iit.edu**
+-📫 How to reach me **harshaldattasawant@gmail.com**
 
 -⚡ Fun fact **While I'm not Python-ing, you will find me on a football field.**
 
