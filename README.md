@@ -4,7 +4,7 @@
 
 -📫 How to reach me **harshaldattasawant@gmail.com**
 
--⚡ Fun fact **While I'm not Python-ing, you will find me on a football field.**
+-⚡ Fun fact **While I'm not working, you will find me on a football field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
